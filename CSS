@@ -1,0 +1,36 @@
+.parent{
+    height: 500px;
+    background-color: gray;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    
+    
+}
+
+
+.one{
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+}
+
+.two{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    align-self: start;
+}
+
+.three{
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+}
+
+.four{
+    height: 150px;
+    width: 150px;
+    background-color: purple;
+}
